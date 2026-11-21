@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "Dam3D-DRBEM: 3D arch dam-reservoir interaction (PhD research code, 1997-1998)"
+type: software
+authors:
+  - family-names: Fahjan
+    given-names: Yasin M.
+    orcid: "https://orcid.org/0000-0003-1254-4526"
+    affiliation: "Istanbul Technical University"
+license: MIT
+date-released: "2026-11-21"
+keywords:
+  - dam-reservoir interaction
+  - dual reciprocity boundary element method
+  - DRBEM
+  - finite element method
+  - hydrodynamic pressure
+  - earthquake engineering
+  - Fortran
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Fahjan
+      given-names: Yasin M.
+      orcid: "https://orcid.org/0000-0003-1254-4526"
+    - family-names: Börekçi
+      given-names: Osman S.
+    - family-names: Erdik
+      given-names: Mustafa
+  title: "Earthquake-induced hydrodynamic pressures on a 3D rigid dam-reservoir system using DRBEM and a radiation matrix"
+  journal: "International Journal for Numerical Methods in Engineering"
+  volume: 56
+  start: 1511
+  end: 1532
+  year: 2003
+  doi: "10.1002/nme.623"

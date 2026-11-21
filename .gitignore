@@ -1,0 +1,13 @@
+# Build artefacts (MS Fortran PowerStation / Visual Fortran / gfortran)
+*.obj
+*.o
+*.mod
+*.exe
+*.ncb
+*.opt
+*.plg
+*.pdb
+*.ilk
+Debug/
+Release/
+build/

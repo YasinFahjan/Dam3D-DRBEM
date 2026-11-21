@@ -1,0 +1,7 @@
+* text=auto
+*.f90 text
+*.in text
+*.dat text
+*.out text
+*.g text
+*.G text
